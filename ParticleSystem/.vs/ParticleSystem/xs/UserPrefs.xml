@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{477DB8C0-D22B-16E3-31A8-2082303D7B76}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Follow.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Follow.cs" Line="8" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ParticleSystem" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="8ff3bf34-2c4a-4e4c-8ce9-ade40c9d22e1" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
